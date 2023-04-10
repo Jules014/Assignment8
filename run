@@ -1,0 +1,3 @@
+rm -rf ./sort
+cc sort.c -o sort
+./sort
